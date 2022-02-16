@@ -1,5 +1,3 @@
-
-import './App.css';
 import {Routes , Route} from "react-router-dom";
 import Home from "./compement/home/home"
 import Login from "./compement/Login/Login"
